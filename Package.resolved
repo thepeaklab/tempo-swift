@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "61a780f3b58ee0d2bb76fdb7b89dbc9751d521d7",
+          "version": "4.7.3"
+        }
+      },
+      {
+        "package": "Quack",
+        "repositoryURL": "https://github.com/cpageler93/quack",
+        "state": {
+          "branch": "1.4.0",
+          "revision": "20c145d2658f5f92672cf4a84a4f13c877cf8779",
+          "version": null
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "7477584259bfce2560a19e06ad9f71db441fff11",
+          "version": "3.2.4"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/IBM-Swift/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "693d2d28fe2f91aedf02c3754baade625fd97c46",
+          "version": "17.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
