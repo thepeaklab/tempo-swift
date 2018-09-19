@@ -26,7 +26,7 @@ public class TempoClient: Quack.Client {
         return df
     }
 
-    init(authToken token: String) {
+    public init(authToken token: String) {
         dateFormatter.dateFormat = "yyyy-MM-dd"
         self.authToken = token
         super.init(url: URL(string: "https://api.tempo.io/2")!)
