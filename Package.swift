@@ -9,7 +9,7 @@ let package = Package(
         .library(name: "TempoClient", targets: ["TempoClient"]),
         ],
     dependencies: [
-        .package(url: "https://github.com/cpageler93/quack", .branch("1.4.0"))
+        .package(url: "https://github.com/cpageler93/quack", from: "1.4.0")
     ],
     targets: [
         .target(name: "TempoClient", dependencies: ["Quack"]),
